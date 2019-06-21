@@ -1,13 +1,29 @@
 
 
-features:
+-features:-
+
+  -Temperature
+  -Humidity
+  -altitude
+  -air pressure
+  -light sensor(optional): can be used for day/night detection and reading light levels.
+  
 
 
-Things to take care:
+
+-Things to take care:-
 
 
-problems:
+-problems:-
 
 
-process included:
+-process included:-
+
+pcb designing
+3d modeling
+3d printing
+
+
+
+
 
